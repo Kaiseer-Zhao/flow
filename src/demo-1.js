@@ -1,4 +1,3 @@
-// @flow
 
 function foo (x: ?number): string {
 	if (x) {
