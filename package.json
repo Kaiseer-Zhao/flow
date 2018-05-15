@@ -1,0 +1,14 @@
+{
+  "name": "Flow",
+  "version": "1.0.0",
+  "description": "Flow",
+  "main": "index.js",
+  "author": "Kaiser",
+  "license": "MIT",
+  "scripts": {
+    "flow": "flow check"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.72.0"
+  }
+}
